@@ -29,7 +29,7 @@ on:
           - 'd-team_newifi-d2-Clash'
           - 'd-team_newifi-d2-Lite'
       Tempoary_FLAG:
-        description: '固件标签'
+        description: 'd-team_newifi-d2-Clash'
         default: 'AUTO'
         type: choice
         options:
